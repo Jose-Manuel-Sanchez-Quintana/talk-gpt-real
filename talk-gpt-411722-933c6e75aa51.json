@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "talk-gpt-411722",
+  "private_key_id": "933c6e75aa5148178fc2b7414a8a212bf7e95aba",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCjXbdJFBCUByIo\nehhB65aBqGVd7XcWjaaNe+LNtjYGZAC4EpRQ52QrlbD3ZyE8PzchvZR0RgHfNUTn\nybU3DYW2sFLrDjdpwjWwrLnlOyK8lE0TCS/XMIyQtPkkeU0FIY4tPQXfDQwCOdwG\n70UwL4gEOev0a8QYmJo5UFL6STqPQDd4TxLAzKOx3YcP6yIWYsBqNxXuusbX7pwF\nDxWJKB0j78o1TPGjVkYKDFPEhDK5+46PBSpCb+A7+s7hHrpH8JwayvGRMVwhRHob\n2BftydVBDhMSZyPwaAZ9LcPcYNxix/U/1GNzX67HjkyguZkUEOwlaQT5gy5T9tHw\n9kvncb9xAgMBAAECggEAFDV/0BClMQf63+1OpTpKrt+707/lnKAe64oDl2AEKeE4\nEjfrf2CdzHh4NlAHKqfv9C1lY8bUl3NEWAoPRUVXy67fQF2iBDlhS+mUwM3XxmKa\nxZE8M6S5VsipuKswGG47Y3mU3tqt0slWix276NyQY7lzPhQQuNwz2TAzEOwlzC+P\ntCxyE74QLN+DiQU2udqb0Yut735A1uW6Y3XfKJ6Nlu/r8KL6ApGcoC6ClYyD5+Ph\nVZH4wDvebAJaHESKg1yjk9eniclDBgL4/qwODZmrCUWdMJaulJhFUaO89GB6dD0V\nRHzrhMwOejY5fgUF+isjRYkvgnVboG+zBUjKoa4BuwKBgQDNuX51wHB0aO93hr9h\n8mLtw0cLSGJNXqIcYI/34YHwAK12fBRYGdcVnzERn2+8pU61hrwRurqcgKdlOvmm\neTUHZLoLXNdhm5/9XYX7vfS8YwULouWjIa4rRp/81zrvXj9JufHZDb8FgqUuLeDf\nMZiDL403G4ElFxhfudQQkgBkiwKBgQDLSjJB2o2AA3RdpqaTyeDl9OFah2TpHWRP\nJRXt2PtDtH9E7uDZEDYDiYd8mj+eL8EDXOb4fnfPka7TBzfgvB0AzMM2iyRUfJ9F\niCC2F+/7C3Q78m2cDLttZtKeGRNKTMKDfILbWSmuUXt/ikloouA7V4hrHGHJDwpY\nRSY5QX9fcwKBgD8jmS5mm5z+v9A9aOuUyswSTPGni5QXYUW4VTdM3OZeLt7Ygh3w\nAFVAgHzaJB8P1TJdYcdHOhLiYX3uNcTkGmRkg70NB4WLj/ThCUgUKtLOyTOjETua\nEKxzhpLBM/NXR7FHAnUNhP0Z9bxQlF2sCRTqOTsak+5gQjjO/ckAJmK1AoGAHANq\nb4a1bwmK1IjtdXohQq7/CuGTd0g0lW9v2SnIXikWTKJ6W48PUmd2QyZiU+MSvurj\nbSTIT9MseyoIejCR8pVE5VRBOl8992/tygn8aOTILKaYkiNzBH1h0qVz8g4n08Sp\np55ezwWtdgLRYNjo+2RxiQkNNI6dB1LoFIXBDp8CgYB1TztKD97e0EpSK22+NG4d\n9LfvWyTRi4GD7GQr9QxuKEmSLa0d4Quc3ELHq3IUe9KyK86qu699SaOf/0amiF1e\nfmq53ISjRyjMhfbMFEUpvp3INZn72uIptvcS8LBTn2/9ZFYNpAB4idJSjt9DQUxy\nZCJfoEC1YDIDOzNEV/s8Gg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "gpt-talk@talk-gpt-411722.iam.gserviceaccount.com",
+  "client_id": "117497091108802272244",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gpt-talk%40talk-gpt-411722.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
